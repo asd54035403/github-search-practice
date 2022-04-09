@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-search-practice/static/css/main.112acd80.css",
+    "main.js": "/github-search-practice/static/js/main.dbccec89.js",
+    "index.html": "/github-search-practice/index.html",
+    "main.112acd80.css.map": "/github-search-practice/static/css/main.112acd80.css.map",
+    "main.dbccec89.js.map": "/github-search-practice/static/js/main.dbccec89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.112acd80.css",
+    "static/js/main.dbccec89.js"
+  ]
+}
